@@ -3,4 +3,4 @@ quantity = float(input("enter product quantitiy"))
 total_price =price*quantity
 gst=total_price*(18/100)
 final_amount= total_price+gst
-print("your bill is : ",final_amount)
+print("your bill iss : ",final_amount)
