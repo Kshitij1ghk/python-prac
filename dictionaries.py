@@ -18,3 +18,4 @@ print(student["age"])
 #update
 student["maths"]=[34,35,46]
 print(student)
+
