@@ -1,6 +1,6 @@
 # unzip is a concept not a function or method
 data = [("aman", 80), ("neha", 90), ("ravi", 70)]
-names, marks = zip(*data)
+names, marks = zip(*data
 print(names)
 print(marks)
 # the output is in tuple
